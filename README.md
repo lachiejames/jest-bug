@@ -1,0 +1,1 @@
+Used here: https://github.com/jest-community/vscode-jest/issues/732
